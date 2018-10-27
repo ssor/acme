@@ -199,3 +199,7 @@ fi
 - [Community: 9fans](http://plan9.bell-labs.com/wiki/plan9/9fans/index.html)
 - [Google group: plan9port-dev](https://groups.google.com/forum/#forum/plan9port-dev)
 - [Plan 9 and FreeBSD](https://forums.freebsd.org/threads/rio.29736/)
+- [
+Home About WTF? Contact Subscribe Downloads
+20130309
+Extensibility in the Acme text editor](http://www.mostlymaths.net/2013/03/extensibility-programming-acme-text-editor.html)
